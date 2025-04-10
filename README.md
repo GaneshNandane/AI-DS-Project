@@ -1,4 +1,5 @@
 🧠 Auto Chat Responder Bot using OpenAI + PyAutoGUI
+
 This Python script automates replying to Facebook Messenger messages using OpenAI's GPT model and simulates human-like interaction using pyautogui. It reads the latest message from a specific person, generates a smart response using OpenAI's chat model (gpt-4o), and sends the reply—all automatically.
 
 🔧 Features
