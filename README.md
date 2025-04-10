@@ -48,4 +48,6 @@ For safety, avoid pushing your real API key to GitHub. Use environment variables
 This project is for educational purposes only. Automating interactions on platforms like Messenger may violate their terms of service. Use responsibly.
 
 📸 Preview
-![Chat Replay](https://github.com/user-attachments/assets/e13ae774-7cba-4fb6-bb50-bcf0c1165b82)
+
+![chat replay 2](https://github.com/user-attachments/assets/5c983984-8e91-4285-93be-609ff799bdb7)
+
