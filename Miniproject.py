@@ -6,7 +6,7 @@ from openai import OpenAI
 # OpenAI API credentials
 client = OpenAI(
     base_url="https://models.inference.ai.azure.com",
-    api_key="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",  
+    api_key=os.getenv("OPENAI_API_KEY"),  
 )
 
 def is_last_message_from_sender(chat_log, sender_name=input("Enter a Messenger Name: ")):
